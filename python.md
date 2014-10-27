@@ -6,5 +6,5 @@ permalink: /python/
 incomplete: true
 ---
 
-* [**ipython**] (http://ipython.org/) - Powerful interactive shells (terminal and Qt-based).
+*   [**ipython**] (http://ipython.org/) - Powerful interactive shells (terminal and Qt-based)
 
