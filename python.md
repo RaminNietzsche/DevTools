@@ -6,10 +6,12 @@ permalink: /python/
 incomplete: true
 ---
 
-*	name: ipython
+{	name: ipython
 	url: http://ipython.org/
 	desc: Powerful interactive shells (terminal and Qt-based)
-
-* 	name: eric
+}
+{
+ 	name: eric
 	url: http://eric.org
 	desc: editor
+}
