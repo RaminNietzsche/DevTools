@@ -7,7 +7,7 @@ layout: default
 			{% if page.incomplete %} {% include incompletelist.html %} {% endif %}
 			{% if page.empty %} {% include emptylist.html %} {% endif %}
 			<ul>
-				{% for item in page %}
+				{% for item in page.content %}
 				  <li>
 				    <a href="https://github.com/{{ member.github }}">
 				      {{ item.name }}
